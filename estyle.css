@@ -1,0 +1,80 @@
+
+/* element */
+/* p {
+    color: green;
+    padding: 30px;
+} */
+
+* {
+    font-family: Arial;
+}
+
+/* ID */
+#main-title {
+    color: red;
+    padding: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* Class */
+.my-content {
+    color: rgb(22, 3, 4);
+    background-color: cyan;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.background-default {
+    background-color: #ec1eb9;
+    font-size: 15px;
+}
+
+/* Colors */
+.hexa {
+    background-color: #b6d40be5;
+    color: rgb(224, 17, 27);
+}
+
+.rgb {
+    background-color: rgb(255, 0, 0);
+    color: rgb(230, 236, 236);
+    padding: 10px;
+}
+
+.color-name {
+    background-color: rgb(40, 34, 88);
+    color: rgb(0, 255, 21);
+    padding: 8px;
+}
+
+h1, h2, h3 {
+    padding: 10px;
+}
+
+.sans-serif {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    background-color:blueviolet
+}
+
+.serif {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.mono {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.big-text {
+    font-size: 40px;
+}
+
+.heavy-text {
+    font-weight: bold;
+    background-color: brown;
+}
+
+.italic-text {
+    font-style: italic;
+    background-color: chocolate;
+}
